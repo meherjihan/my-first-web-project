@@ -1,0 +1,44 @@
+body {
+  background-color: deepskyblue;
+}
+div {
+  background-color: white;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 30px;
+  border-radius: 20px;
+}
+#game {
+  background-color: black;
+  padding: 20px;
+  border: 2px solid white;
+  margin: 30px;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+  color: maroon;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+  color: purple;
+  font-size: 25px;
+}
+#h {
+  text-align: center;
+  color: yellow;
+  font-size: 25px;
+}
+ul{
+  color: black;
+  font-size: 20px;
+}
+#list {
+  color: white;
+  font-size: 20px;
+}
+footer {
+  color: maroon;
+  text-align: center;
+}
